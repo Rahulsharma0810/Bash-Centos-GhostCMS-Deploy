@@ -9,7 +9,7 @@ phpMyadmin
 
 access ghost in /var/www/html/ghost
 
-# curl --insecure https://raw.githubusercontent.com/Rahulsharma0810/Centos-Ghost-Deploy/master/ghost-install.sh | sh
+##### curl --insecure https://raw.githubusercontent.com/Rahulsharma0810/Centos-Ghost-Deploy/master/ghost-install.sh | sh
 
 Allow your Ip in /etc/httpd/conf.d/phpMyadmin.conf
 
